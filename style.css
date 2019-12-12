@@ -1,0 +1,16 @@
+div#memory_board {
+    background: black;
+    width: 1000px;
+    height: 600px;
+    border: solid;    
+
+}
+div#memory_board > div {
+    background: url(bg_img.svg) no-repeat;
+    border: solid;
+    width: 80px;
+    height: 100px;
+    margin: 13px;
+    font-size: 60px;
+    text-align: center;
+}
